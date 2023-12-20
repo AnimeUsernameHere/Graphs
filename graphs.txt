@@ -1,6 +1,6 @@
 using System;
 
-class Smej
+class graphs
 {
     static void Main()
     {
